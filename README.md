@@ -8,3 +8,4 @@ Public repo for Steam news app created with a team of students in CS492 at Orego
 To run, open in Android Studio and launch the application on the desired device. 
 
 YOU MUST APPLY FOR YOUR OWN STEAM API KEY AND INSERT IT @ `app/src/main/res/values/strings.xml`
+Information can be found at: https://steamcommunity.com/dev
