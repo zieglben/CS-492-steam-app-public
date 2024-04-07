@@ -2,5 +2,6 @@
     <string name="app_name">CS492FinalProject</string>
     <string name="settings">Settings</string>
     <string name="ic_arrow_forward"><![CDATA[>]]></string>
-    <string name="api_key">D1DE882730A9D1162E26A9E46D19984A</string>
+    
+    <string name="api_key"><!-- Insert API Key here --></string>
 </resources>
